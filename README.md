@@ -22,9 +22,6 @@ Sign-up page for a multi-campus AI hackathon (Africa, Europe, Israel) that I co-
 **[Yddish Market](https://github.com/samcohhhh/Yddishmarket)** · *React, TypeScript, Gemini*  
 Marketplace prototype for independent artisan brands, built with Google AI Studio.
 
-**[LeDressingD'Eva](https://github.com/samcohhhh/ledressingd-eva)** · *HTML, CSS*  
-Storefront for a second-hand luxury fashion shop.
-
 ---
 
 ### 🧰 Toolbox
