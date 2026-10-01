@@ -22,6 +22,9 @@ Sign-up page for a multi-campus AI hackathon (Africa, Europe, Israel) that I co-
 **[Yddish Market](https://github.com/samcohhhh/Yddishmarket)** · *React, TypeScript, Gemini*  
 Marketplace prototype for independent artisan brands, built with Google AI Studio.
 
+**[Lisa & Sean · wedding website](https://mariage-lisa-et-sean.com/)** · *HTML, CSS, JavaScript*  
+Bilingual French–Hebrew wedding invitation site, live on its own domain, with a page per event, animated visuals and directions for guests.
+
 ---
 
 ### 🧰 Toolbox
